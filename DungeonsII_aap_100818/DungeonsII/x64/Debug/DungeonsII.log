@@ -1,0 +1,86 @@
+﻿  map.cpp
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\consts.h(18): warning C4305: инициализация: усечение из "double" к "float"
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(93): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(127): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(134): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(141): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(148): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(155): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(162): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(169): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(176): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(183): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(190): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(249): warning C4244: инициализация: преобразование "const float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(261): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(249): warning C4101: alpha: неиспользованная локальная переменная
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(249): warning C4101: dy: неиспользованная локальная переменная
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(249): warning C4101: dx: неиспользованная локальная переменная
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(309): warning C4244: инициализация: преобразование "const float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(309): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(316): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(318): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(319): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(324): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(326): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(327): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(331): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(333): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(334): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(338): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(340): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(341): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(347): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(355): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(363): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(364): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(370): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(371): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(374): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(375): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(395): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(395): warning C4244: инициализация: преобразование "const float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(400): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(401): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(402): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(408): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(409): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(410): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(416): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(417): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(418): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(424): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(425): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(426): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(432): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(440): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(449): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(450): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(456): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(457): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(461): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(462): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(486): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(492): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(500): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(506): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(512): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(518): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(558): warning C4305: инициализация: усечение из "double" к "float"
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(590): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(616): warning C4244: аргумент: преобразование "const float" в "const int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\map.cpp(593): warning C4101: typeIntersect: неиспользованная локальная переменная
+  HandleGame.cpp
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\consts.h(18): warning C4305: инициализация: усечение из "double" к "float"
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\view.h(49): warning C4305: аргумент: усечение из "double" к "float"
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\view.h(54): warning C4305: аргумент: усечение из "double" к "float"
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\handlegame.cpp(6): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\handlegame.cpp(35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\handlegame.cpp(36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\handlegame.cpp(38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\handlegame.cpp(39): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\handlegame.cpp(222): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+c:\max\my_created_games\dungeonsii\dungeonsii_aap_100818\dungeonsii\handlegame.cpp(227): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+  Создание кода...
+  DungeonsII.vcxproj -> C:\Max\my_created_games\DungeonsII\DungeonsII_aap_100818\x64\Debug\DungeonsII.exe
+  DungeonsII.vcxproj -> C:\Max\my_created_games\DungeonsII\DungeonsII_aap_100818\x64\Debug\DungeonsII.pdb (Full PDB)
